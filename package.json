@@ -55,7 +55,7 @@
     "inquirer": "^6.2.2",
     "is-ci-cli": "^1.1.1",
     "nodemon": "^1.18.9",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "ora": "^3.2.0",
     "prettier": "1.18.2",
     "start-server-and-test": "^1.9.0"
